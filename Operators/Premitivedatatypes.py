@@ -1,0 +1,20 @@
+#programing using primitive datatypes inn python 
+num1=100
+print(num1)
+print(type(num1))
+num2=24.14
+value=True
+num=3+4j
+print(num2,type(num2))
+print(value,type(value))
+print(num,type(num))
+name="Python"
+print(name,type(name))
+num3=100
+print(id(num1),id(num3))
+num3=200
+print(id(num1),id(num3))
+name="sathwik"
+print(name,id(name))
+name1="sathwik"
+print(name1,id(name1),type(name1))

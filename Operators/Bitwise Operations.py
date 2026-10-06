@@ -1,0 +1,8 @@
+Num1 = int(input("Enter a number:"))
+Num2 = int(input("Enter a number:"))
+print("AND",Num1 & Num2)
+print("OR",Num1 | Num2)
+print("XOR",Num1 ^ Num2)
+print("NOT",~Num1)
+print("Left Shift",Num1 << 1)
+print("Right Shift",Num1 >> 1)

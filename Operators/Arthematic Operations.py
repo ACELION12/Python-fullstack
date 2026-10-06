@@ -1,0 +1,10 @@
+num1=int(input("Enter a number"))
+num2=int(input("Enter a number"))
+#+,-,*,/,%,//
+print('sum = ',num1+num2)
+print('Difference = ', num1-num2)
+print('Product = ',num1*num2)
+print('Quotient = ',num1/num2)
+print('Reminder = ',num1%num2)
+print('int Quotient = ',num1//num2)
+print('exponent = ',num1**num2)
